@@ -1,0 +1,34 @@
+{
+    "name": "kls_srb_local_adapter",
+    "isFavorite": false,
+    "items": [
+        {
+            "coin": "KLS",
+            "pool_ssl": false,
+            "dpool_ssl": false,
+            "miner": "srbminer",
+            "miner_config": {
+                "url": "127.0.0.1:5555",
+                "algo": "nirvanahash",
+                "worker": "%WORKER_NAME%",
+                "template": "%WAL%",
+                "user_config": "--disable-cpu"
+            },
+            "pool_geo": []
+        },
+        {
+            "coin": "KLS",
+            "pool_ssl": false,
+            "dpool_ssl": false,
+            "miner": "custom",
+            "miner_alt": "nva_bridge",
+            "miner_config": {
+                "url": "YOUR_NIRVANAD_NODE_IP_HERE:22110",
+                "miner": "nva_bridge",
+                "template": "doesnt.matter",
+                "install_url": "https://github.com/Nirvana-Chain/nirvanad-stratum-bridge/releases/download/v1.1.0/nva_bridge-1.1.0_hive.tar.gz"
+            },
+            "pool_geo": []
+        }
+    ]
+}
