@@ -2,6 +2,7 @@ package main
 
 import (
 	"flag"
+	"github.com/Nirvana-Chain/nirvanad-stratum-bridge/src/nirvanastratum"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"log"

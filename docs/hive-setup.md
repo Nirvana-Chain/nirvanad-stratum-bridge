@@ -7,7 +7,7 @@ computer and have configured already a Nirvana wallet in Hive. I've
 provided one template flight sheet that can be imported to jumpstart
 the config process.
 
-I'll be using SRBminer here, so I'm focusing on the file [here](../misc/hive-templates/kls_srb_local_adapter.json)
+I'll be using SRBminer here, so I'm focusing on the file [here](../misc/hive-templates/nva_srb_local_adapter.json)
 Hive gives the option to import from a file, so please navigate to the
 template that you want and hit the 'Download raw file' button.
 

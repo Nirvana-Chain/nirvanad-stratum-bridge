@@ -2,14 +2,13 @@ package gostratum
 
 import (
 	"fmt"
-	"github.com/mattn/go-colorable"
-	"regexp"
-	"strings"
-
 	"github.com/Nirvana-Chain/nirvanad/util"
+	"github.com/mattn/go-colorable"
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
+	"regexp"
+	"strings"
 )
 
 type StratumMethod string
@@ -114,7 +113,7 @@ func SendExtranonce(ctx *StratumContext) {
 var walletRegex = regexp.MustCompile("nirvana:[a-z0-9]+")
 
 func CleanWallet(in string) (string, error) {
-	_, err := util.DecodeAddress(in, util.Bech32PrefixKaspa)
+	_, err := util.DecodeAddress(in, util.Bech32PrefixNirvana)
 	if err == nil {
 		return in, nil // good to go
 	}
