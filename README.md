@@ -9,13 +9,13 @@ macOS and HiveOS.
 
 * [srbminer](https://github.com/doktor83/SRBMiner-Multi/releases)
 
-Discord discussions/issues: [here](https://discord.gg/pPNESjGfb5)
+Telegram discussions/issues: [https://t.me/Nirvanad_Chain](https://t.me/Nirvanad_Chain)
 
 Huge shoutout to https://github.com/KaffinPX/KStratum and
 https://github.com/onemorebsmith/nirvanad-stratum-bridge and
 https://github.com/rdugan/kaspa-stratum-bridge for the inspiration.
 
-Tips appreciated: `nirvana:qpff4xzlzfqertcuvztp0r8qlk59sd6y2asamplepm7nmryckumfy07nhwfur`
+Tips appreciated: `nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj`
 
 ## Hive Setup
 
@@ -75,14 +75,14 @@ nva_network_block_count 271966
 nva_network_difficulty_gauge 1.2526479386202519e+14
 # HELP nva_valid_share_counter Number of shares found by worker over time
 # TYPE nva_valid_share_counter counter
-nva_valid_share_counter{ip="192.168.0.17",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qpff4xzlzfqertcuvztp0r8qlk59sd6y2asamplepm7nmryckumfy07nhwfur",worker="002"} 276
-nva_valid_share_counter{ip="192.168.0.24",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qpff4xzlzfqertcuvztp0r8qlk59sd6y2asamplepm7nmryckumfy07nhwfur",worker="003"} 43
-nva_valid_share_counter{ip="192.168.0.65",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qpff4xzlzfqertcuvztp0r8qlk59sd6y2asamplepm7nmryckumfy07nhwfur",worker="001"} 307
+nva_valid_share_counter{ip="192.168.0.17",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj",worker="002"} 276
+nva_valid_share_counter{ip="192.168.0.24",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj",worker="003"} 43
+nva_valid_share_counter{ip="192.168.0.65",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj",worker="001"} 307
 # HELP nva_worker_job_counter Number of jobs sent to the miner by worker over time
 # TYPE nva_worker_job_counter counter
-nva_worker_job_counter{ip="192.168.0.17",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qpff4xzlzfqertcuvztp0r8qlk59sd6y2asamplepm7nmryckumfy07nhwfur",worker="002"} 3471
-nva_worker_job_counter{ip="192.168.0.24",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qpff4xzlzfqertcuvztp0r8qlk59sd6y2asamplepm7nmryckumfy07nhwfur",worker="003"} 3399
-nva_worker_job_counter{ip="192.168.0.65",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qpff4xzlzfqertcuvztp0r8qlk59sd6y2asamplepm7nmryckumfy07nhwfur",worker="001"} 3425
+nva_worker_job_counter{ip="192.168.0.17",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj",worker="002"} 3471
+nva_worker_job_counter{ip="192.168.0.24",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj",worker="003"} 3399
+nva_worker_job_counter{ip="192.168.0.65",miner="SRBMiner-MULTI/2.4.1",wallet="nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj",worker="001"} 3425
 ```
 
 # Install

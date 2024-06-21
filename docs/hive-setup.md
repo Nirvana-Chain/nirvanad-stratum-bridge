@@ -30,7 +30,7 @@ the miner configs until you touch the pool config, so re-set it to
 
 Last step, you just need to edit the custom miner section with the
 address of the `Nirvanad` node you're mining to. This needs the full
-ip address and port so it'll look similar to `192.168.0.12:22110`
+ip address and port so it'll look similar to `192.168.0.12:11810`
 save the changes after you're finished.
 
 ![Hive Setup 4](images/hive-4.png)

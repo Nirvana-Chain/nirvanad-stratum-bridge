@@ -23,7 +23,7 @@
             "miner": "custom",
             "miner_alt": "nva_bridge",
             "miner_config": {
-                "url": "YOUR_NIRVANAD_NODE_IP_HERE:22110",
+                "url": "YOUR_NIRVANAD_NODE_IP_HERE:11810",
                 "miner": "nva_bridge",
                 "template": "doesnt.matter",
                 "install_url": "https://github.com/Nirvana-Chain/nirvanad-stratum-bridge/releases/download/v1.1.0/nva_bridge-1.1.0_hive.tar.gz"
