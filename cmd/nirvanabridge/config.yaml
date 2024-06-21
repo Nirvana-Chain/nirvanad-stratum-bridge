@@ -6,7 +6,7 @@ stratum_port: :5555
 # Nirvanad_address: address/port of the rpc server for Nirvanad, typically 11810
 # For a list of public nodes, run `nslookup mainnet-dnsseed.daglabs-dev.com`
 # uncomment for to use a public node
-nirvanad_address: 127.0.0.1:11810
+Nirvanad_address: 127.0.0.1:11810
 
 # min_share_diff: only accept shares of the specified difficulty (or higher)
 # from the miner(s).  Higher values will reduce the number of shares submitted,
