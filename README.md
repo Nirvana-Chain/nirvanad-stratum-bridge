@@ -9,7 +9,10 @@ macOS and HiveOS.
 
 * [srbminer](https://github.com/doktor83/SRBMiner-Multi/releases)
 
-Telegram discussions/issues: [https://t.me/Nirvanad_Chain](https://t.me/Nirvanad_Chain)
+
+- Join our Telegram server using the following link: [https://t.me/Nirvanad_Chain/](https://t.me/Nirvanad_Chain)
+- 加入Telegram中文频道: [https://t.me/Nirvanad_Chain_CN/](https://t.me/Nirvanad_Chain_CN)
+
 
 Huge shoutout to https://github.com/KaffinPX/KStratum and
 https://github.com/onemorebsmith/nirvanad-stratum-bridge and
