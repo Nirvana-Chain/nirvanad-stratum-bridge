@@ -182,3 +182,9 @@ previous behavior of pulling down a pre-built image. You may still use
 the pre-built image by issuing the command `docker run -p 5555:5555 nirvananetwork/nirvana_bridge:latest`,
 but it is not guaranteed to be up to date, so compiling from source is
 the better alternative.
+
+## Donate:
+#### Your donation is our biggest motivation for open source
+- BTC：bc1qz2upj7qnw6wftpqsc5t53uexeczzdsfcxml49d
+- ETH：0x07f8dea7297651f3c9720f06d856fa99ed9aa320
+- NVA：nirvana:qqlk0atms6xvl266t9cs9klpcxfawlnp50xr8qesq2exa9sln9ylwv8mf30wj
